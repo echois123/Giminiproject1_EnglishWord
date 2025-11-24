@@ -1,0 +1,7 @@
+{
+  "name": "LingoPop AI",
+  "description": "A vibrant, AI-powered dictionary and language learning companion featuring context-aware explanations, visual mnemonics, and gamified study modes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
